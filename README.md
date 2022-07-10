@@ -1,6 +1,6 @@
 # THTTP
 
-Thttp is a cloud-native HTTP (that's sounds cooler than "using docker") pooler which use a docker client to create tor containers then give you a Go HTTP client you can use to execute http call anonymously. Let's see how we can use it :
+Thttp is a cloud-native (that sound cooler than "using docker") HTTP connection pooler which use a docker client to create tor containers then give you a Go HTTP client you can use to execute http call anonymously. Let's see how we can use it :
 
 First you need to build the container using the Dockerfile included in this repo :
 
